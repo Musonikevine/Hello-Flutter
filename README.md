@@ -1,4 +1,3 @@
-This is an application that does a simple calculator. By using this app i used flutter.
+This is an application that does a simple Hello by using Flutter.
 
-
-This appliaction has different features...such as basic operaion, it is a user friendly, good design and it can be changeable.
+This appliaction has different features...user friendly and good design.
